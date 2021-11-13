@@ -1,3 +1,5 @@
 # front_teste_integracao
 
-src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"
+<p align="center">
+  <img width="460" height="390" src="src/styles/dormrm(1).gif">
+  </p>
